@@ -1,0 +1,84 @@
+/* Write your CSS here */
+.md-device-comment {
+  display: none;
+}
+
+.app-container {
+  max-width: 500px;
+  padding-top: 40px;
+  padding-left: 20px;
+  font-family: roboto;
+}
+
+.main-heading {
+  font-size: 50px;
+  color: #1e293b;
+}
+
+.sm-device-comment {
+  width: 320px;
+}
+
+.comment-description {
+  color: #475569;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: roboto;
+}
+
+.name-user-input {
+  padding: 10px 10px 10px 15px;
+  min-width: 320px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px #cbd2d9 solid;
+  outline: none;
+}
+
+.comment-user-input {
+  border-radius: 5px;
+  border: 1px #cbd2d9 solid;
+  outline: none;
+  min-width: 320px;
+  min-height: 100px;
+  padding: 10px 10px 10px 15px;
+  margin-bottom: 15px;
+}
+
+.add-comment {
+  background-color: #0284c7;
+  padding: 7px 14px 7px 14px;
+  color: white;
+  border: none;
+  font-size: 15px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.line-after-button {
+  max-width: 320px;
+  margin-left: 0px;
+  border: 0.5px #94a3b8 solid;
+  opacity: 0.3;
+}
+
+.comments-title-text {
+  color: #334155;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.comment-increase-count {
+  background-color: #0284c7;
+  padding: 4px 10px 4px 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 400;
+}
+
+.comment-list-container {
+  padding-left: 0;
+  max-width: 320px;
+}
